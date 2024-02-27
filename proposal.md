@@ -1,5 +1,5 @@
-TITLE: MADE EASY
-Predicting the helpfulness of a review. 
+**TITLE: MADE EASY**
+##Predicting the helpfulness of a review. 
 
 
 # AML Project Analysis
