@@ -96,3 +96,7 @@ Potential stakeholders for the Yelp Dataset include:
 - *Business Owners and Managers:* Individuals who run or manage businesses listed on Yelp could be interested in understanding customer reviews and feedback to improve their services.
 - *App Developers:* Those learning to develop mobile apps could use the Yelp Dataset as sample production data to create applications related to restaurant recommendations, review analysis, or other Yelp-related services.
 
+##References 
+Ceylan, G., Diehl, K., & Proserpio, D. (2024). Words Meet Photos: When and Why Photos Increase Review Helpfulness. Journal of Marketing Research, 61(1), 5–26. https://doi.org/10.1177/00222437231169711
+Fedewa, Dave and Chauncey Holder (2022), “Why Business Must Heed Customer Reviews,” McKinsey (February 22), https://www. mckinsey.com/capabilities/operations/our-insights/why-businessmust-heed-customer-reviews.
+Power Reviews (2021), “How User-Generated Visual Content Became Fundamental to Ecommerce,” (accessed September 30, 2022), https://www.powerreviews.com/insights/how-visual-ugc-becamefundamental/.
