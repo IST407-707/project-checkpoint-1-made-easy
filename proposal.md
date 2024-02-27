@@ -25,7 +25,7 @@ Business Question 2:
 •	What’s new: Evaluating the impact of menu design on customer ordering patterns by incorporating a measure of the availability of combo options and specials. This analysis goes beyond the menu layout to assess how the menu composition, particularly the presence of well-designed combos and specials, influences customer satisfaction and, consequently, restaurant ratings.
 •	Who cares: Restaurant owners and managers interested in optimizing menu offerings to enhance customer experience, drive sales, and improve ratings.
 
-•	Potential Business Question 3:
+Potential Business Question 3:
 •	Objective: Building a restaurant recommendation system (Welcome comments)
 
 ## Literature Review
