@@ -51,6 +51,7 @@ The modeling methods will depend on the specific objectives. Potential approache
 
 - **Machine Learning Models:** Utilizing machine learning algorithms for sentiment analysis, recommendation systems, or predicting business success based on certain attributes.
 - **NLP Techniques:** Applying natural language processing techniques for text analysis, topic modeling, or extracting valuable information from reviews.
+- **Image Processing:** Extracting the texture features including identification of patterns, textures, and surface characteristics within the image.
 - **Data Visualization:** Using visualization tools to present insights in a comprehensible manner for stakeholders.
 - **Statistical Analysis:** Employing statistical methods to identify patterns or trends within the dataset.
 
