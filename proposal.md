@@ -57,16 +57,17 @@ The modeling methods will depend on the specific objectives. Potential approache
 
 
 Project Plan
+| *Period* | *Activity* | *Milestone* |
+| --- | --- | --- |
+| Week1 | Detailed Stakeholder Analysis & Objective Specification | Complete analysis of stakeholders and define project objectives |
+| Week2 | Data Identification | Secure access to Yelp Dataset and verify its suitability |
+| Week3 | Data Preparation | Clean and preprocess the data for analysis |
+| Week4 | Exploratory Data Analysis (EDA) | Gain insights into the dataset and identify potential features for modeling |
+| Week5 | Model Development - NLP Techniques | Develop NLP models for sentiment analysis and topic modeling |
+| Week6 | Model Development - Machine Learning | Build and train ML models for recommendation systems and predicting business success |
+| Week7 | Model Evaluation and Refinement | Evaluate model performance and refine models based on feedback |
+| Week8 | Final Review & Stakeholder Presentation | Finalize project and present findings to stakeholders |
 
-Period	                 Activity	                                                                      Milestone
-Week1 	     Detailed Stakeholder Analysis & Objective Specification	       Complete analysis of stakeholders and define project objectives
-Week2	       Data Identification	                                           Secure access to Yelp Dataset and verify its suitability
-Week3	       Data Preparation	                                               Clean and preprocess the data for analysis
-Week4	       Exploratory Data Analysis (EDA)	                               Gain insights into the dataset and identify potential features for modeling
-Week5	       Model Development - NLP Techniques	                             Develop NLP models for sentiment analysis and topic modeling
-Week6	       Model Development - Machine Learning	                           Build and train ML models for recommendation systems and predicting business success
-Week7	       Model Evaluation and Refinement	                               Evaluate model performance and refine models based on feedback
-Week8	       Final Review & Stakeholder Presentation	                       Finalize project and present findings to stakeholders
 
 
 
@@ -92,4 +93,3 @@ Potential stakeholders for the Yelp Dataset include:
 •	Business Owners and Managers: Individuals who run or manage businesses listed on Yelp could be interested in understanding customer reviews and feedback to improve their services.
 •	App Developers: Those learning to develop mobile apps could use the Yelp Dataset as sample production data to create applications related to restaurant recommendations, review analysis, or other Yelp-related services.
 
-![image](https://github.com/IST407-707/project-checkpoint-1-made-easy/assets/45489502/b423dcd6-e6e4-4bdc-b57d-5e623f1af135)
