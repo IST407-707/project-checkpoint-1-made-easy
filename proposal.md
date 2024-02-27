@@ -86,10 +86,12 @@ Project Plan
 
 
 
-Stakeholder Analysis - Who Cares?
+*Stakeholder Analysis - Who Cares?*
+
 Potential stakeholders for the Yelp Dataset include:
-•	Academic Researchers: They may be interested in using the dataset for various research purposes, such as studying user behavior, sentiment analysis in reviews, or analyzing the impact of reviews on businesses.
-•	Data Scientists and Analysts: Professionals in these fields may leverage the dataset for developing recommendation systems, sentiment analysis models, or other data-driven insights.
-•	Business Owners and Managers: Individuals who run or manage businesses listed on Yelp could be interested in understanding customer reviews and feedback to improve their services.
-•	App Developers: Those learning to develop mobile apps could use the Yelp Dataset as sample production data to create applications related to restaurant recommendations, review analysis, or other Yelp-related services.
+
+- *Academic Researchers:* They may be interested in using the dataset for various research purposes, such as studying user behavior, sentiment analysis in reviews, or analyzing the impact of reviews on businesses.
+- *Data Scientists and Analysts:* Professionals in these fields may leverage the dataset for developing recommendation systems, sentiment analysis models, or other data-driven insights.
+- *Business Owners and Managers:* Individuals who run or manage businesses listed on Yelp could be interested in understanding customer reviews and feedback to improve their services.
+- *App Developers:* Those learning to develop mobile apps could use the Yelp Dataset as sample production data to create applications related to restaurant recommendations, review analysis, or other Yelp-related services.
 
