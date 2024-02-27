@@ -73,7 +73,7 @@ Project Plan
 
 
 
-##**Risks**:
+## **Risks**:
 
 
 1. **Data Quality and Completeness**: The Yelp Dataset, while extensive, might have inconsistencies, missing values, or outdated information that could affect the analysis. The risk here is drawing inaccurate conclusions due to poor data quality.
