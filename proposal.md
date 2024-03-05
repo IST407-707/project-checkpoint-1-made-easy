@@ -15,22 +15,14 @@ List of team members, including full names and GitHub IDs
 - Xiaoying Feng (Awing91333)
 
 ## Introduction
-Business Question 1: 
-•	Objective: Predicting the helpfulness of a review
-•	What’s new: Including a measurement between the review text and the image similarity with image processing and NLP.
-•	Who cares: food critics, the Yelp elite program which offers benefits to elusive events, however, the member is selected based on the contribution they have for the Yelp community. 
+Business Question 1: How can a restaurant recommendation system improve customer satisfaction and retention, and how will the recommendation system handle cold start problems for new users or restaurants with limited historical data?
 
-Business Question 2:
-•	Objective: Predicting the rating of a restaurant
-•	What’s new: Evaluating the impact of menu design on customer ordering patterns by incorporating a measure of the availability of combo options and specials. This analysis goes beyond the menu layout to assess how the menu composition, particularly the presence of well-designed combos and specials, influences customer satisfaction and, consequently, restaurant ratings.
-•	Who cares: Restaurant owners and managers interested in optimizing menu offerings to enhance customer experience, drive sales, and improve ratings.
+Business Question 2: What level of personalization should be offered in the restaurant recommendations, and what strategies will be used to address biases in the recommendation system to ensure fair and diverse suggestions?
 
-Potential Business Question 3:
-•	Objective: Building a restaurant recommendation system (Welcome comments)
 
 ## Literature Review
 
-Traditionally, scholars and professionals have heavily concentrated on natural language processing for insights derived from written text (Fedewa and Holder, 2022). Nevertheless, photos serve as crucial tools for consumers to express their experiences. Presently, a majority of consumers assert their reliance on visual content when making decisions and express a preference for user-generated visual content over professionally crafted material (Power Reviews, 2021). Ceylan et al. (2024) employed the Google Cloud Platform Vision API and utilized the "Detect Labels" function to scrutinize review images and employed Doc2Vec for extracting labels from the review text, subsequently measuring the similarity between these labels. The findings suggested that the inclusion of photos enhances the helpfulness of a review, and a higher alignment between photos and text further amplifies review helpfulness. However, it is important to note that this study only examined the similarity of object labels, neglecting other concealed aspects such as restaurant ambiance and overall vibe. There exists an opportunity to capture a more comprehensive narrative by extracting additional features beyond object labels.
+The concept of recommendation systems dates to the late 20th century. In the early days, collaborative filtering and content-based filtering were among the most used techniques for making recommendations. Hybrid recommendation models, combining collaborative filtering, content-based filtering, and other techniques, have gained popularity for their ability to overcome the limitations of individual approaches. By leveraging multiple data sources and algorithms, hybrid models can provide more diverse and accurate restaurant recommendations. There is also increasing emphasis on fairness and diversity in restaurant recommendation systems to address concerns about algorithmic bias and recommendation homogeneity. Recent research has focused on developing fairness-aware recommendation algorithms that mitigate bias and promote diversity in recommendations across different user groups. With the growing adoption of machine learning in recommendation systems, there is a heightened demand for explainable and transparent models. Recent advancements aim to enhance the interpretability of recommendation models, enabling users to understand the underlying factors driving recommendations and build trust in the system. Overall, the field of restaurant recommendation systems continues to evolve rapidly, driven by advancements in machine learning, data mining, and user modeling techniques. By leveraging these innovations, restaurant recommendation systems can deliver more personalized, relevant, and engaging dining experiences for users around the world.
 
 ## Data
 
@@ -52,11 +44,9 @@ This dataset is reliable because it comes from the Yelp Open Dataset Challenge, 
 The modeling methods will depend on the specific objectives. Potential approaches include:
 
 - **Machine Learning Models:** Utilizing machine learning algorithms for sentiment analysis, recommendation systems, or predicting business success based on certain attributes.
-- **NLP Techniques:** Applying natural language processing techniques for text analysis, topic modeling, or extracting valuable information from reviews.
-- **Image Processing:** Extracting the texture features including identification of patterns, textures, and surface characteristics within the image.
-- **Data Visualization:** Using visualization tools to present insights in a comprehensible manner for stakeholders.
+- **NLP Techniques:** Applying natural language processing techniques for text analysis, topic modeling, or extracting valuable information from reviews. 
+- **Data Visualization:** Using visualization tools to present insights in a comprehensible manner for stakeholders. 
 - **Statistical Analysis:** Employing statistical methods to identify patterns or trends within the dataset.
-
 
 
 Project Plan
